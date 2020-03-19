@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>damon&#39;s blog</title>
-    <link>https://borys-dad.github.io/</link>
-    <description>Recent content on damon&#39;s blog</description>
+    <title>Works on damon&#39;s blog</title>
+    <link>https://borys-dad.github.io/work/</link>
+    <description>Recent content in Works on damon&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>damon.lee@kakao.com (damon)</managingEditor>
@@ -16,31 +16,10 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 19 Mar 2020 17:53:18 +0900</lastBuildDate>
     
-        <atom:link href="https://borys-dad.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://borys-dad.github.io/work/index.xml" rel="self" type="application/rss+xml" />
     
     
     
-      
-      
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
 
       
       <item>
