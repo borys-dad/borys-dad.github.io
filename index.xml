@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Hugo Zzo Theme</title>
-    <link>http://example.org/</link>
+    <link>https://borys-dad.github.io/</link>
     <description>Recent content on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 19 Mar 2020 16:44:18 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://borys-dad.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -45,11 +45,11 @@
       
       <item>
         <title>New</title>
-        <link>http://example.org/posts/new/</link>
+        <link>https://borys-dad.github.io/posts/new/</link>
         <pubDate>Thu, 19 Mar 2020 16:44:18 +0900</pubDate>
         <author>damon.lee@kakao.com (damon)</author>
         <atom:modified>Thu, 19 Mar 2020 16:44:18 +0900</atom:modified>
-        <guid>http://example.org/posts/new/</guid>
+        <guid>https://borys-dad.github.io/posts/new/</guid>
         <description>new post</description>
         
         <dc:creator>damon</dc:creator>
@@ -63,11 +63,11 @@
       
       <item>
         <title>First</title>
-        <link>http://example.org/posts/first/</link>
+        <link>https://borys-dad.github.io/posts/first/</link>
         <pubDate>Thu, 19 Mar 2020 15:40:33 +0900</pubDate>
         <author>damon.lee@kakao.com (damon)</author>
         <atom:modified>Thu, 19 Mar 2020 15:40:33 +0900</atom:modified>
-        <guid>http://example.org/posts/first/</guid>
+        <guid>https://borys-dad.github.io/posts/first/</guid>
         <description>FIRST POST ye my first posting</description>
         
         <dc:creator>damon</dc:creator>

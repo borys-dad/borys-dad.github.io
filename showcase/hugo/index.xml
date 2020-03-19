@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Hugo on Hugo Zzo Theme</title>
-    <link>http://example.org/showcase/hugo/</link>
+    <link>https://borys-dad.github.io/showcase/hugo/</link>
     <description>Recent content in Hugo on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 19 Jan 2020 21:04:11 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/showcase/hugo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://borys-dad.github.io/showcase/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>My Awesome Project</title>
-        <link>http://example.org/showcase/hugo/my-awesome-project/</link>
+        <link>https://borys-dad.github.io/showcase/hugo/my-awesome-project/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         <author>damon.lee@kakao.com (damon)</author>
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>http://example.org/showcase/hugo/my-awesome-project/</guid>
+        <guid>https://borys-dad.github.io/showcase/hugo/my-awesome-project/</guid>
         <description></description>
         
         <dc:creator>damon</dc:creator>
