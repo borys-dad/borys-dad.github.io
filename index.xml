@@ -14,7 +14,7 @@
     <managingEditor>damon.lee@kakao.com (damon)</managingEditor>
     <webMaster>damon.lee@kakao.com (damon)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 19 Mar 2020 17:53:18 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2020 18:19:04 +0900</lastBuildDate>
     
         <atom:link href="https://borys-dad.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,6 +42,42 @@
         
       
 
+      
+      <item>
+        <title>Tech</title>
+        <link>https://borys-dad.github.io/tech/tech/</link>
+        <pubDate>Thu, 19 Mar 2020 18:19:04 +0900</pubDate>
+        <author>damon.lee@kakao.com (damon)</author>
+        <atom:modified>Thu, 19 Mar 2020 18:19:04 +0900</atom:modified>
+        <guid>https://borys-dad.github.io/tech/tech/</guid>
+        <description>IT와 관련된 정보 IT와 관련된 정보 혹은 실행해볼 것들</description>
+        
+        <dc:creator>damon</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>PrivacyFAQ</title>
+        <link>https://borys-dad.github.io/privacyfaq/privacyfaq/</link>
+        <pubDate>Thu, 19 Mar 2020 18:18:54 +0900</pubDate>
+        <author>damon.lee@kakao.com (damon)</author>
+        <atom:modified>Thu, 19 Mar 2020 18:18:54 +0900</atom:modified>
+        <guid>https://borys-dad.github.io/privacyfaq/privacyfaq/</guid>
+        <description>개인정보와 관련된 FAQ FAQ들을 모아놓고 관리 예정</description>
+        
+        <dc:creator>damon</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>개인정보처리시스템 접속기록 검토</title>

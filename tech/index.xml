@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Teches on damon&#39;s blog</title>
+    <link>https://borys-dad.github.io/tech/</link>
+    <description>Recent content in Teches on damon&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>damon.lee@kakao.com (damon)</managingEditor>
+    <webMaster>damon.lee@kakao.com (damon)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 19 Mar 2020 18:19:04 +0900</lastBuildDate>
+    
+        <atom:link href="https://borys-dad.github.io/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Tech</title>
+        <link>https://borys-dad.github.io/tech/tech/</link>
+        <pubDate>Thu, 19 Mar 2020 18:19:04 +0900</pubDate>
+        <author>damon.lee@kakao.com (damon)</author>
+        <atom:modified>Thu, 19 Mar 2020 18:19:04 +0900</atom:modified>
+        <guid>https://borys-dad.github.io/tech/tech/</guid>
+        <description>IT와 관련된 정보 IT와 관련된 정보 혹은 실행해볼 것들</description>
+        
+        <dc:creator>damon</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
