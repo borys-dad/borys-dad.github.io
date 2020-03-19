@@ -14,13 +14,31 @@
     <managingEditor>damon.lee@kakao.com (damon)</managingEditor>
     <webMaster>damon.lee@kakao.com (damon)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 19 Mar 2020 17:53:18 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2020 17:54:18 +0900</lastBuildDate>
     
         <atom:link href="https://borys-dad.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Access</title>
+        <link>https://borys-dad.github.io/posts/audit_of_privacyaccess1/</link>
+        <pubDate>Thu, 19 Mar 2020 17:54:18 +0900</pubDate>
+        <author>damon.lee@kakao.com (damon)</author>
+        <atom:modified>Thu, 19 Mar 2020 17:54:18 +0900</atom:modified>
+        <guid>https://borys-dad.github.io/posts/audit_of_privacyaccess1/</guid>
+        <description>check</description>
+        
+        <dc:creator>damon</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>개인정보처리시스템 접속기록 검토</title>
